@@ -165,5 +165,5 @@ new RawSource(sourceCode: String)
 很显然，就是显示源代码而不包含sourceMap。
 
 #### 3.总结
-所以，从我的理解来说，prepack作用于webpack的时机在于：将源代码转化为ES5以后。从上面的html的编译结果就可以知道了~所以，如果你对webpack的基础知识不了解，请仔细查看我在文章中提到的那些内容。最后，**All issue and star welcomed!**
+所以，从我的理解来说，prepack作用于webpack的时机在于：将源代码转化为ES5以后。从上面的html的编译结果就可以知道了，至于它到底做了什么，以及如何做的，还请查看[官网](https://prepack.io/getting-started.html)。所以，如果你对webpack的基础知识不了解，请仔细查看我在文章中提到的那些内容。最后，**All issue and star welcomed!**
 
